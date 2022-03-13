@@ -1,0 +1,44 @@
+addClient;Private Person;1;Joe;Who;23/4/1978;Str. Aztek
+addClient;Private Person;2;Albert;Nobaloon;4/6/1990;Bvd. Movilei 6
+addClient;Private Person;3;Minke;Vladislav;5/3/1972;Str. Boiler
+addClient;Legal Entity;4;SRN;SRL;443;Bvd. Croi
+addClient;Legal Entity;5;Lubedenei;SA;5;Str. Zumba
+addClient;Legal Entity;6;Maroks;SA;52;Bvd. Address
+list;clients
+addProduct;Painting;1;Guernica;459;20;1937;Pablo Picasso;OIL
+addProduct;Painting;2;Grande Odalisque;53;55;1642; Jean Auguste Dominique Ingres;TEMPERA
+addProduct;Painting;3;Liberty Leading the People;340;124;1880;Eugène Delacroix;ACRYLIC
+addProduct;Painting;4;Impression;50;566;1042;Claude Mone;OIL
+addProduct;Painting;5;Wanderer above the Sea of Fog;541;65;1959;Caspar D.;TEMPERA
+addProduct;Painting;6;The Raft of the Medusa;67;56;1593; Théodore Géricault;ACRYLIC
+addProduct;Painting;7;Nighthawks;99;2;1832;Edward Hoppet;OIL
+addProduct;Jewelry;8;The Marie-Louise Diadem;963;50;1992;Gold;1
+addProduct;Jewelry;9;Princess Diana's Engagement Ring;99;532;1052;Silver;1
+addProduct;Jewelry;10;The Henckel Von Donnersmarck Tiara;865;52;1905;Gold;1
+addProduct;Jewelry;11;The Duchess of Windsor's Panther Bracelet;748;510;1630;Human Skin;1
+addProduct;Jewelry;12;The Cora Sun-Drop Diamond;69;12;1543;Netherite;1
+addProduct;Jewelry;13;The Tiffany Diamond;523;4;1894;Diamonds;1
+addProduct;Jewelry;14;A Crown;12;5;454;Wood;0
+addProduct;Furniture;15;ADMETE RUND chair pad;492;52;1956;Living;wood
+addProduct;Furniture;16;ADMETE dish towel;42;45;1969;Bathroom;Cotton
+addProduct;Furniture;17;AGAM junior chair;15;15;1053;Bedroom;Wood
+addProduct;Furniture;18;AGEN series;745;44;1942;Series;Series I guess
+addProduct;Furniture;19;ANTIK handle;4;7;999;Door;Metal
+addProduct;Furniture;20;ANTONIUS shelf;52;764;1945;Room;Wood
+list;products
+solicitBid;5;5;945
+solicitBid;1;5;53
+solicitBid;3;5;666
+solicitBid;2;5;654
+solicitBid;5;9;522
+solicitBid;2;9;32
+solicitBid;3;9;400
+solicitBid;6;9;98
+solicitBid;4;19;566
+solicitBid;1;19;1000
+solicitBid;2;19;6765
+solicitBid;3;19;42
+solicitBid;4;12;423
+solicitBid;1;12;56
+solicitBid;2;12;2
+solicitBid;3;12;5

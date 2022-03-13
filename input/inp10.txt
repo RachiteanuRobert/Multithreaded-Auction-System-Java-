@@ -1,0 +1,48 @@
+addClient;Private Person;1;Wiltrud;bdasdb;basdb;bads
+addClient;Private Person;2;Anastazija;bdasbas;basdbdfgd;hfhf
+addClient;Private Person;3;Camilla;fuftu;uftutfu;ftu
+addClient;Legal Entity;4;Chernobog;SA;423;avsd
+addClient;Legal Entity;5;Vojislava;SRL;523;VASD
+addClient;Legal Entity;6;Naiara;SA;53;BAS
+list;clients
+addProduct;Painting;1;CAND;76;453;6;ASBD;OIL
+addProduct;Painting;2;AMANDOI;534;23;12;SNDS;OIL
+addProduct;Painting;3;AUZIRA;745;32;1;ANDHAS;OIL
+addProduct;Painting;4;O;54;43;2;NJHFGF;OIL
+addProduct;Painting;5;BATAIE;765;34;2;BAHAS;OIL
+addProduct;Painting;6;USOARA;645;765;12;OSFDGO;OIL
+addProduct;Painting;7;LA;756;2;5;SSRDB;OIL
+addProduct;Jewelry;8;USA;65;34;65;BSDDHA;1
+addProduct;Jewelry;9;VARASE;475;32;643;NSBHDAG;1
+addProduct;Jewelry;10;UN ;632;235;123;ASGDAH;1
+addProduct;Jewelry;11;ALES;543;23;1;SBDAG;1
+addProduct;Jewelry;12;RASPUNDE;53;5;2;ABSDAH;1
+addProduct;Jewelry;13;PICIOARE;53;5;2;BASG;1
+addProduct;Jewelry;14;SERVETEL;634;543;123;basdga;1
+addProduct;Furniture;15;HOL;664;34;1;gads;dasg
+addProduct;Furniture;16;GEAMUL;634;3;3;basg;asgd
+addProduct;Furniture;17;SILUETA;7;7;5;hfsdhs;atast
+addProduct;Furniture;18;INTERIOARA;565;645;863;hsat;ABGA
+addProduct;Furniture;19;VERANDA;435;347;73;aha;sdfh
+addProduct;Furniture;20;FEMEIE;5;2;1;sdbahgs;asdg
+list;products
+solicitBid;1;3;100
+solicitBid;2;3;324
+solicitBid;5;3;32
+solicitBid;6;3;235
+solicitBid;4;17;400
+solicitBid;1;17;742
+solicitBid;2;17;865
+solicitBid;3;17;7
+solicitBid;4;8;400
+solicitBid;3;8;12
+solicitBid;1;8;776
+solicitBid;6;8;235
+solicitBid;5;13;64
+solicitBid;4;13;654
+solicitBid;3;13;6
+solicitBid;2;13;1
+solicitBid;1;2;643
+solicitBid;4;2;231
+solicitBid;3;2;643
+solicitBid;6;2;5

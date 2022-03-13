@@ -1,0 +1,44 @@
+addClient;Private Person;1;Daniyyel;Aurica;423/345/5;ABDSF
+addClient;Private Person;2;Anita;Terach;SDFSDFS;DFGDF
+addClient;Private Person;3;Bojan;Zevadyah;GDFG;DFGDFG
+addClient;Legal Entity;4;Sylvia;SA;423;AVSDV
+addClient;Legal Entity;5;Vid;SRL;534;PAFSF
+addClient;Legal Entity;6;Mensur;SA;563;ASVEA
+list;clients
+addProduct;Painting;1;TE;23;4;2;CASD;OIL
+addProduct;Painting;2;ROG;423;534;23;ASVD;TEMPERA
+addProduct;Painting;3;FRUMOS;43;53;2;ASCD;ACRYLIC
+addProduct;Painting;4;OPRESTE-TE;32;4;123;AGSVDBT;OIL
+addProduct;Painting;5;POTI;534;42;3;AVSDBSD;ACRYLIC
+addProduct;Painting;6;SA;54;2;1;ASBB;TEMPERA
+addProduct;Painting;7;FACI;564;523;1;AGAASGA;OIL
+addProduct;Jewelry;8;ASTA;534;123;2;ASFAS;1
+addProduct;Jewelry;9;IN;53;632;1;ABSDBHD;0
+addProduct;Jewelry;10;SCHIMB;6;123;1;BASDBG;0
+addProduct;Jewelry;11;DA;2;3;4;BASDGD;1
+addProduct;Jewelry;12;DE;55;23;1;BAFGHD;0
+addProduct;Jewelry;13;CE;5;21;6;SBGHBDS;1
+addProduct;Jewelry;14;NU;2;3;4;BDFH;1
+addProduct;Furniture;15;CLICK;543;23;1;ASGS;ASDF
+addProduct;Furniture;16;HAM;35;2;56;ASB;BADS
+addProduct;Furniture;17;MIAU;5;2;3;BDABDFH;ASVDA
+addProduct;Furniture;18;MOO;4;6;1;BASDH;CARASV
+addProduct;Furniture;19;CHOO;73;523;124;ASBD;BDYBSR
+addProduct;Furniture;20;MASCA;423;352;123;ABSS;AVDS
+list;products
+solicitBid;1;4;543
+solicitBid;2;4;547
+solicitBid;5;4;758
+solicitBid;3;4;4
+solicitBid;4;16;23
+solicitBid;2;16;745
+solicitBid;1;16;634
+solicitBid;5;16;54
+solicitBid;5;10;20
+solicitBid;2;10;411
+solicitBid;6;10;2
+solicitBid;3;10;876
+solicitBid;1;9;53
+solicitBid;2;9;756
+solicitBid;4;9;153
+solicitBid;3;9;

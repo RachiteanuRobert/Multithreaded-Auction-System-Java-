@@ -1,0 +1,44 @@
+addClient;Private Person;1;Jacquette;Dipak;14/5/2013;Str. Musica
+addClient;Private Person;2;Agnetha;Ukaleq;25/2/1404;Str. Mapamo
+addClient;Private Person;3;Cua;Chelle;5/4/1963;Bvd. Promascu
+addClient;Legal Entity;4;Clipper;SRL;452;Str. Unirii
+addClient;Legal Entity;5;Tabacco of London LTD;SA;6;Str. Garoafelor
+addClient;Legal Entity;6; Heinner;SRL;40;Str. Primaverii
+list;clients
+addProduct;Painting;1;Saturn Eating Sun;432;52;1952;Iso;ACRYLIC
+addProduct;Painting;2;Covefee;55;1;1953;Brosk;OIL
+addProduct;Painting;3;Muska Miska;564;95;432;Melania;TEMPERA
+addProduct;Painting;4;Mikey Mouse;63;63;1842;Szulak;OIL
+addProduct;Painting;5;HAHA;531;32;1938;Meow;ACRYLIC
+addProduct;Painting;6;A lonley night;412;55;1942;Redford;TEMPERA
+addProduct;Painting;7;Looping loop;424;33;1942;Marko S.;OIL
+addProduct;Jewelry;8;High Crown;55;522;1322;Gold;1
+addProduct;Jewelry;9;Low Crown;52;512;422;GoldAlso;0
+addProduct;Jewelry;10;Medium Crown;677;123;1524;Silk;1
+addProduct;Jewelry;11;MeRinlo Pendant;55;865;685;Wood;0
+addProduct;Jewelry;12;Shoe Lace of Diamon;21;673;1294;Diamon;1
+addProduct;Jewelry;13;Ring of A Beer Can;42;124;1932;Metal;0
+addProduct;Jewelry;14;Hunter Earring;982;673;1235;Gold;1
+addProduct;Furniture;15;LEN crib comforter;142;65;1942;Bedroom;Wood
+addProduct;Furniture;16;LEN flat sheet;412;634;1953;Bedroom;Cottton
+addProduct;Furniture;17;LERBERG series;52;76;1424;Home;Wood
+addProduct;Furniture;18;LINDSDAL handle;56;865;1942;Door;Steel
+addProduct;Furniture;19;LINDVED side table;74;7;5231;Living Room;Wood
+addProduct;Furniture;20;LOTS mirror;412;62;1242;Bathroom;Silver
+list;products
+solicitBid;2;3;532
+solicitBid;1;3;132
+solicitBid;3;3;5
+solicitBid;6;3;521
+solicitBid;2;7;555
+solicitBid;1;7;64
+solicitBid;3;7;777
+solicitBid;4;7;55
+solicitBid;5;14;442
+solicitBid;1;14;51
+solicitBid;4;14;32
+solicitBid;2;14;67
+solicitBid;5;19;132
+solicitBid;1;19;42
+solicitBid;3;19;1
+solicitBid;;19;555

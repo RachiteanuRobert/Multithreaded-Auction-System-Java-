@@ -1,0 +1,46 @@
+addClient;Private Person;1;Mike;Pence;4/5/1960;Str. Murica
+addClient;Private Person;2;John;Malko;2/5/1949;Bvd. Danika
+addClient;Private Person;3;Alex;Black;7/3/2011;Str. One
+addClient;Legal Entity;4;MARLO;SRL;100;Str. Blex
+addClient;Legal Entity;5;Oltchim;SA;124;Calea Bucuresti
+addClient;Legal Entity;6;MacroRex;SRL;523;Str. Patimii
+list;clients
+addProduct;Painting;1;Girl with Ear;1500;100;1052;Alex Bukowski;OIL
+addProduct;Painting;2;Homage to the Square: Against Deep Blue;200;304;1632;Josef Albers;TEMPERA
+addProduct;Painting;3;Mona Lisa;2000;100;1503;Leonardo Da Vinci;ACRYLIC
+addProduct;Painting;4;Vanit;194;20;1459;Sandro Botticelli;OIL
+addProduct;Painting;5;The Starry Night;142;50;1889;Vincent van Gogh;ACRYLIC
+addProduct;Painting;6;Arrangement in Grey and Black No. 1;424;1043;1944;ames Abbott McNeill Whistle;TEMPERA
+addProduct;Painting;7;The Kiss;1000;134;1902;Gustavo M.;OIL
+addProduct;Jewelry;8;The Ring;300;100;1003;Gold;0
+addProduct;Jewelry;9;Crown of Sorrow;4032;150;1405;Platinum;1
+addProduct;Jewelry;10;Pendant of Doom;423;20;1953;Ebony;0
+addProduct;Jewelry;11;The Other Ring;301;1000;1123;Gold;1
+addProduct;Jewelry;12;Ruby of Lust;4;2;2019;Silver;1
+addProduct;Jewelry;13;Just a Diamond;323;599;1684;Diamond;1
+addProduct;Jewelry;14;Yet Another Ring;340;400;1430;Gold;0
+addProduct;Furniture;15;Super Sofa;42;42;2011;Living;Textile
+addProduct;Furniture;16;Chair of Doom;444;666;1666;Dying;Doom
+addProduct;Furniture;17;Leksa Table;40;10;2012;Interior;Wood
+addProduct;Furniture;18;Dobrovich Armor;100;40;1532;Decorative Item;Silver
+addProduct;Furniture;19;Chair That Makes Other Chairs;123;1234;1;Bedroom;Chairs
+addProduct;Furniture;20;Comfy Legrest;16;5;1978;Living Room;Textile
+list;products
+solicitBid;1;9;2000
+solicitBid;2;9;1424
+solicitBid;3;9;42
+solicitBid;4;9;5910
+solicitBid;1;4;10
+solicitBid;4;4;349
+solicitBid;5;4;4210
+solicitBid;2;4;321
+solicitBid;6;19;142
+solicitBid;3;19;5238
+solicitBid;1;19;1426
+solicitBid;5;19;14
+solicitBid;2;10;412
+solicitBid;3;10;12
+solicitBid;4;10;9329
+solicitBid;6;10;41
+
+

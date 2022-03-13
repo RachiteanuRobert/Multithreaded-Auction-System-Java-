@@ -1,0 +1,46 @@
+addClient;Private Person;1;Nikkole;Eustache;1/1/1;asdfa
+addClient;Private Person;2;MOSHIs;svdgv;1/2/3;sadf
+addClient;Private Person;3;GUGU;vdhsd;1/42/2;bdtjf
+addClient;Legal Entity;4;BREMO;SA;252;stvdfbas
+addClient;Legal Entity;5;GLRO;SRL;124;savfs
+addClient;Legal Entity;6;YASOL;SA;515;absbfgh
+list;clients
+addProduct;Painting;1;cugetand;423;23;5;vasdg;OIL
+addProduct;Painting;2;la;123;45;2;vasdvhvdry;OIL
+addProduct;Painting;3;apus;634;4;2;CREASTSTRPR;TEMPERA
+addProduct;Painting;4;esti;523;842;65;VASVSTEBA;ACRYLIC
+addProduct;Painting;5;uimit;364;631;5;ASBSRA5;TEMPERA
+addProduct;Painting;6;doar;1;2;3;PAVRAOPBWVE;ACRYLIC
+addProduct;Painting;7;de;2;5;7;AVPSDFKB;TEMPERA
+addProduct;Jewelry;8;faptul;123;534;43;ACSD;1
+addProduct;Jewelry;9;ca;234;456;42;AR BAG;0
+addProduct;Jewelry;10;inca;45;21;4;AVSDA;1
+addProduct;Jewelry;11;mai;24;2;523;AVRDVYD;0
+addProduct;Jewelry;12;poti;5;2;34;ABADS;1
+addProduct;Jewelry;13;sa;125;354;24;ASB7NUF;0
+addProduct;Jewelry;14;iti;54;3;2;ABSFDB;1
+addProduct;Furniture;15;imaginezi;453;346;456;ADVSA;AVSDA
+addProduct;Furniture;16;o;54;3;3;ASBBNFGNF;FNGHFG
+addProduct;Furniture;17;mare;65;764;7;BHDFBD;HTRRT
+addProduct;Furniture;18;peste;457;5;3;NDFDFS;DSG
+addProduct;Furniture;19;toate;754;654;346;CASDBAS;BGDFBS
+addProduct;Furniture;20;mici;534;5;325;BASD;ABSD
+list;products
+solicitBid;5;5;1
+solicitBid;1;5;53
+solicitBid;3;5;666
+solicitBid;2;5;654
+solicitBid;5;9;522
+solicitBid;2;9;32
+solicitBid;3;9;400
+solicitBid;6;9;98
+solicitBid;4;19;566
+solicitBid;1;19;100
+solicitBid;2;19;676
+solicitBid;3;19;42
+solicitBid;6;19;21
+solicitBid;4;12;423
+solicitBid;1;12;56
+solicitBid;2;12;2
+solicitBid;3;12;5
+
